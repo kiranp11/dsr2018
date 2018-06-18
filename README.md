@@ -1,1 +1,1 @@
-# dsr2018
+scratch pad for data science
