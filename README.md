@@ -1,10 +1,11 @@
-#ReadMe
+# ReadMe
 
-##scratch pad for data science
+## scratch pad for data science
 
 This repos is used as scratch pad for learning data science 
 
-##Lists 
+## Lists 
 
-..1. item 1
-..2. item 2
+1. First point
+  * item 1
+  * item 2
