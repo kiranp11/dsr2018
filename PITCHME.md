@@ -12,6 +12,8 @@ This repos is used as scratch pad for learning data science
   * item 1
   * item 2
 
+---
+
 ## Tables
 
 |Col1 | Col2 | Col3 |
